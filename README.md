@@ -2,7 +2,7 @@
 
 ### mko's very own Hyprland dotfiles
 
-# Script is comming soon:tm:
+# Script is coming soon&trade;
 
 ## Requirements
 
